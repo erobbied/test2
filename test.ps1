@@ -1,4 +1,4 @@
 Import-Module activedirectory
-$strUserName = "v-rodaou"
+$strUserName = "gajensen"
 $strUser = get-aduser  $strUserName
 $strUser
